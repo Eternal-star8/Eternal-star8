@@ -1,90 +1,77 @@
 <!-- 🚀 Welcome Banner -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Priya+Mehta+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Learner+🧠;A+Passionate+Tech+Explorer+🚀;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+App+Developer+📱;Cloud+Computing+Explorer+☁️" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Priya+Mehta+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Learner+🧠;Passionate+Tech+Explorer+🚀;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+App+Developer+📱;Cloud+Computing+Explorer+☁️" 
     alt="Typing SVG" 
   />
 </p>
 
 ---
 
-## 👋 **About Me**
+## 👩‍💻 About Me
 
-Hello! I'm **Priya Mehta**, a dedicated Computer Science undergraduate at **UCET Hazaribagh** with a burning passion to become a **top-tier full-stack developer**.
+Hi, I'm **Priya Mehta** — a Computer Science undergrad at **UCET Hazaribagh**, on a mission to become a future-ready full-stack developer.
 
-Growing up in Jharkhand without abundant resources taught me one powerful lesson — **resilience and relentless self-improvement beat all odds**. Every day, I invest in building skills, crafting meaningful projects, and engaging with the tech community to turn ambition into impact.
+Hailing from Jharkhand, I’ve learned to **turn limitations into learning fuel**. Every day, I code with intent, build with purpose, and grow through consistency and community.
 
-### My Philosophy  
-- 🔍 **Clarity over complexity** — code should be clean, readable, and maintainable  
-- 💡 **Build-first learning** — concepts only stick when applied in real projects  
-- ⚡ **Hackathon energy** — fast iterations, MVP focus, and learning under pressure  
-- ⏰ **Discipline > Motivation** — show up consistently, even when it’s tough  
-
----
----
-
-## 📚 My Learning Journey & Approach
-
-> I don’t just “complete courses” — I **build, break, debug, and deliver.**
-
-My journey is a constant cycle of:
-- 🛠️ **Building projects** that push boundaries
-- 🔍 **Deep-diving docs** to really "get" how things work
-- 🎯 **Solving real problems** — from user auth to REST APIs
-
-I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I pick up.
-
-| Stage        | What I'm Doing                                                                 |
-|--------------|---------------------------------------------------------------------------------|
-| 🧱 Foundation | Mastered Core Java, OOP, DSA (GFG), and problem-solving mindset                |
-| ⚙️ Intermediate | Strong grasp on JavaScript, DOM, ES6+ features, and asynchronous flow          |
-| 🧪 Applied     | Built full backend with Node.js, Express.js, MongoDB, JWT, and secure auth     |
-| 🚀 Advancing   | Deep diving into React, component architecture, and moving to Next.js for SSR |
-
+### 🔎 My Tech Philosophy  
+- **Clarity over cleverness** — readable code is powerful code  
+- **Build > Consume** — theory sticks when turned into real apps  
+- **Iterate fast** — hack, break, debug, repeat  
+- **Discipline beats motivation** — progress needs consistency  
 
 ---
----
 
-## ⚙️ **My Tech Stack: Built for Speed, Scale & Learning**
-> I build with a **“modern but pragmatic” stack** — optimized for quick delivery and strong fundamentals.
+## 📘 My Learning Approach
 
-| 🧩 Layer         | Tech I Use                                     | Why It Works for Me                                                                 |
-|------------------|------------------------------------------------|--------------------------------------------------------------------------------------|
-| 🖥️ Frontend      | HTML, CSS, JavaScript, React.js, Next.js       | React + Next is the sweet spot: fast, SEO-friendly, and component-based             |
-|  🧠 Programming   Languages    | Java, JavaScript                               | Java for DSA/OOP mastery. JS for full-stack power and web versatility               |
-| 🔙 Backend       | Node.js, Express.js, JWT, Bcrypt               | Blazing-fast APIs, modular structure, and secure auth systems                       |
-| 🧬 Database      | MongoDB, Mongoose                              | Flexible schemas and smooth integration with Node ecosystem                         |
-| 🧪 Testing/Tools | Postman, Thunder Client, MongoDB Compass       | Debug APIs fast and visualize data like a pro                                       |
-| 🧰 Dev Workflow  | Git, GitHub, Notion, VS Code                   | Source control + organized docs + customized dev environment                        |
+> I don’t just learn — I **build, debug, reflect, and refine.**
+
+| Phase        | What I'm Focusing On                                                              |
+|--------------|------------------------------------------------------------------------------------|
+| 🧱 Foundation | Java, OOP, DSA (via GFG), problem-solving mindset                                  |
+| ⚙️ Intermediate | JavaScript (ES6+), DOM, event flow, async programming                             |
+| 🛠️ Applied     | Backend with Node.js, Express.js, MongoDB, JWT, secure APIs                        |
+| 🚀 Advancing   | React, component-based UI, transitioning into SSR with Next.js                    |
 
 ---
----
 
-## 💼 Featured Projects
+## 🛠️ Tech Stack
 
-> Every project = a learning battleground. Here’s what I’ve shipped and what it taught me.
-
-### 💥 **Web Dev Lab**
-- **What it is**: A growing repo of responsive UIs, landing pages, and micro-interactions
-- **Takeaway**: CSS Grid, Flexbox, media queries, and UI polish
-
-### ♨︎ **Java Mastery Projects**
-- **What it is**: Java-based practice apps and algorithmic problems
-- **Takeaway**: Clean OOP patterns, exception handling, input parsing
-
-### 📰 **DSA Tracker (GFG)**
-- **What it is**: A public log of my GFG problem-solving progress
-- **Takeaway**: Debugging under pressure, writing optimal code, building pattern recognition
-
-### 🔐 **Secure REST API (Private)**
-- **What it is**: Full backend system with Express, JWT auth, protected routes
-- **Takeaway**: Auth logic, token validation, folder structuring best practices
-
-### 🧪 **API Playground (Coming Soon)**
-- **What it will be**: A mini API-first product using Node + MongoDB + Postman docs
-- **Why**: To showcase clean, testable, and secure API architecture
+| 🧩 Layer         | Tools & Tech                                     | Why I Use Them                                                                 |
+|------------------|--------------------------------------------------|--------------------------------------------------------------------------------|
+| 🖥️ Frontend      | HTML, CSS, JavaScript, React.js, Next.js         | Modern, performant UIs with fast feedback cycles                               |
+| 🔁 Programming   | Java, JavaScript                                 | Java for structure/DSA; JS for full-stack capabilities                         |
+| 🔙 Backend       | Node.js, Express.js, JWT, Bcrypt                 | Scalable APIs + secure auth                                                    |
+| 🧬 Database      | MongoDB, Mongoose                                | Flexible schemas + full Node.js integration                                   |
+| 🧪 Testing/Tools | Postman, Thunder Client, MongoDB Compass         | Smooth debugging and API testing workflows                                     |
+| ⚙️ Workflow      | Git, GitHub, Notion, VS Code                     | Version control + focused dev environment                                      |
 
 ---
+
+## 🚧 Featured Projects
+
+> Every project I build is a lab for deep learning and real application.
+
+### 🌐 Web Dev Lab  
+Responsive layouts, micro-interactions, UI systems  
+→ **Learned**: CSS Grid, Flexbox, animations, polish  
+
+### ♨️ Java Mastery Projects  
+Java-based CLI tools and algorithms  
+→ **Learned**: OOP, exception handling, algorithm thinking  
+
+### 📊 DSA Tracker (GFG)  
+Progress log for structured DSA prep  
+→ **Learned**: Time-space trade-offs, logic under pressure  
+
+### 🔐 Secure REST API  
+JWT-auth protected backend system (private)  
+→ **Learned**: Folder structure, auth logic, clean REST practices  
+
+### 🚀 API Playground *(Coming Soon)*  
+Public testable API project with docs  
+→ **Goal**: Showcase scalable, secure backend design  
+
 ---
 
 ## 📈 GitHub Stats
@@ -98,23 +85,20 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 </p>
 
 ---
----
 
 ## 🎯 2024–25 Roadmap
 
-- ✅ Master Java, DSA, OOP  
-- 🔐 Backend APIs + Auth systems  
+- ✅ Strengthen Java, DSA, and OOP  
+- 🔐 Backend APIs with robust auth  
 - ⚛️ React + Next.js full-stack apps  
-- 🧱 CI/CD and deployed projects  
-- 🏆 Hackathons (2–3 MVPs)  
-- 💼 Remote internships  
-- 🌍 Open-source contributions  
-- 💡 Building personal brand
+- 🚢 CI/CD pipelines & deployed projects  
+- 🏁 Hackathons (2–3 MVPs)  
+- 💼 Remote internships + open-source  
+- 🌐 Developer branding + content sharing  
 
 ---
----
 
-## 🤝 Connect with Me
+## 🌍 Let’s Connect
 
 <p align="center">
   <a href="https://github.com/Eternal-star8"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -125,7 +109,6 @@ I follow a **"Learn → Apply → Reflect → Improve"** loop for every tech I p
 
 ## 💬 Final Words
 
-Thanks for stopping by!  
-I’m not just coding for the sake of it — I’m here to **build meaningful projects, share knowledge openly, and grow relentlessly**.  
+Thanks for stopping by! I’m not just learning to code — I’m here to **solve problems, build value, and grow with others in tech**.  
+Let’s connect, collaborate, and keep leveling up! 🚀
 
-Let’s make the next big thing happen **together**.
