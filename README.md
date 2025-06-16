@@ -1,76 +1,76 @@
 <!-- 🚀 Welcome Banner -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Priya+Mehta+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Learner+🧠;Passionate+Tech+Explorer+🚀;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+App+Developer+📱;Cloud+Computing+Explorer+☁️" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Priya+Mehta+👩‍💻;CSE+Undergraduate+at+UCET+Hazaribagh;Focused+on+Java,+DSA+and+Web+Development;Exploring+App+Development+and+Cloud+Technologies" 
     alt="Typing SVG" 
   />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💼 About Me
 
-Hi, I'm **Priya Mehta** — a Computer Science undergrad at **UCET Hazaribagh**, on a mission to become a future-ready full-stack developer.
+I’m **Priya Mehta**, a **Computer Science Engineering undergraduate (CSE'28)** at **UCET Hazaribagh** with a strong foundation in **Java**, **Data Structures & Algorithms**, and a growing expertise in **Full Stack Web Development**.
 
-Hailing from Jharkhand, I’ve learned to **turn limitations into learning fuel**. Every day, I code with intent, build with purpose, and grow through consistency and community.
-
-### 🔎 My Tech Philosophy  
-- **Clarity over cleverness** — readable code is powerful code  
-- **Build > Consume** — theory sticks when turned into real apps  
-- **Iterate fast** — hack, break, debug, repeat  
-- **Discipline beats motivation** — progress needs consistency  
+Driven by a passion for building impactful digital solutions, I approach learning with discipline and curiosity. I actively develop hands-on projects, write clean and maintainable code, and stay up to date with modern technologies.
 
 ---
 
-## 📘 My Learning Approach
+### 🔎 Core Beliefs
 
-> I don’t just learn — I **build, debug, reflect, and refine.**
-
-| Phase        | What I'm Focusing On                                                              |
-|--------------|------------------------------------------------------------------------------------|
-| 🧱 Foundation | Java, OOP, DSA (via GFG), problem-solving mindset                                  |
-| ⚙️ Intermediate | JavaScript (ES6+), DOM, event flow, async programming                             |
-| 🛠️ Applied     | Backend with Node.js, Express.js, MongoDB, JWT, secure APIs                        |
-| 🚀 Advancing   | React, component-based UI, transitioning into SSR with Next.js                    |
+- ✅ **Write clean, readable code**  
+- 🚀 **Focus on real-world applications**  
+- 🧠 **Master fundamentals before frameworks**  
+- 📈 **Continuous improvement through reflection and feedback**
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Learning Path
 
-| 🧩 Layer         | Tools & Tech                                     | Why I Use Them                                                                 |
-|------------------|--------------------------------------------------|--------------------------------------------------------------------------------|
-| 🖥️ Frontend      | HTML, CSS, JavaScript, React.js, Next.js         | Modern, performant UIs with fast feedback cycles                               |
-| 🔁 Programming   | Java, JavaScript                                 | Java for structure/DSA; JS for full-stack capabilities                         |
-| 🔙 Backend       | Node.js, Express.js, JWT, Bcrypt                 | Scalable APIs + secure auth                                                    |
-| 🧬 Database      | MongoDB, Mongoose                                | Flexible schemas + full Node.js integration                                   |
-| 🧪 Testing/Tools | Postman, Thunder Client, MongoDB Compass         | Smooth debugging and API testing workflows                                     |
-| ⚙️ Workflow      | Git, GitHub, Notion, VS Code                     | Version control + focused dev environment                                      |
+| Level         | Skills & Focus                                                                 |
+|---------------|----------------------------------------------------------------------------------|
+| 🧱 Foundation | Java (OOP, Collections), Core DSA via GFG, Problem-solving Techniques           |
+| ⚙️ Intermediate | JavaScript (ES6+), DOM Manipulation, Async Concepts                             |
+| 🛠 Applied     | Node.js, Express.js, MongoDB, REST APIs, JWT Authentication                     |
+| 🚀 Advanced    | React, Component Architecture, moving towards SSR using Next.js                 |
 
 ---
 
-## 🚧 Featured Projects
+## 🧰 Tech Stack
 
-> Every project I build is a lab for deep learning and real application.
+| Domain         | Tools & Technologies                                                       |
+|----------------|----------------------------------------------------------------------------|
+| **Frontend**   | HTML, CSS, JavaScript, React.js, Next.js                                   |
+| **Programming**| Java, JavaScript                                                           |
+| **Backend**    | Node.js, Express.js, REST APIs, JWT, Bcrypt                                |
+| **Database**   | MongoDB, Mongoose                                                          |
+| **Dev Tools**  | Git, GitHub, VS Code, Notion, Postman, MongoDB Compass                     |
 
-### 🌐 Web Dev Lab  
-Responsive layouts, micro-interactions, UI systems  
-→ **Learned**: CSS Grid, Flexbox, animations, polish  
+---
 
-### ♨️ Java Mastery Projects  
-Java-based CLI tools and algorithms  
-→ **Learned**: OOP, exception handling, algorithm thinking  
+## 💼 Projects Overview
 
-### 📊 DSA Tracker (GFG)  
-Progress log for structured DSA prep  
-→ **Learned**: Time-space trade-offs, logic under pressure  
+> Each project I undertake is focused on applying concepts and solving practical problems.
 
-### 🔐 Secure REST API  
-JWT-auth protected backend system (private)  
-→ **Learned**: Folder structure, auth logic, clean REST practices  
+### 📘 Web Dev Lab
+- **Description**: Collection of responsive UIs and layouts
+- **Skills Applied**: CSS Grid/Flexbox, responsiveness, UI polish
 
-### 🚀 API Playground *(Coming Soon)*  
-Public testable API project with docs  
-→ **Goal**: Showcase scalable, secure backend design  
+### ♨ Java Projects
+- **Description**: Java-based tools and DSA-focused apps
+- **Skills Applied**: OOP, input handling, exception management
+
+### 📊 DSA Tracker (GFG)
+- **Description**: Progress log for solving DSA challenges
+- **Skills Applied**: Problem-solving, optimization, debugging
+
+### 🔐 Secure API Backend *(Private)*
+- **Description**: Full backend system with protected routes
+- **Skills Applied**: JWT, RESTful architecture, authentication workflows
+
+### 🧪 API Playground *(Coming Soon)*
+- **Goal**: Public testable APIs with documentation
+- **Focus**: Backend architecture, API security, documentation
 
 ---
 
@@ -86,19 +86,19 @@ Public testable API project with docs
 
 ---
 
-## 🎯 2024–25 Roadmap
+## 🎯 Roadmap: 2024–2025
 
-- ✅ Strengthen Java, DSA, and OOP  
-- 🔐 Backend APIs with robust auth  
-- ⚛️ React + Next.js full-stack apps  
-- 🚢 CI/CD pipelines & deployed projects  
-- 🏁 Hackathons (2–3 MVPs)  
-- 💼 Remote internships + open-source  
-- 🌐 Developer branding + content sharing  
+- ✅ Strengthen Java and DSA fundamentals  
+- 🔐 Develop scalable backend APIs with secure authentication  
+- ⚛️ Master React and Next.js for building modern web applications  
+- 🛠️ Implement CI/CD and deploy full-stack projects  
+- 💼 Participate in internships and open-source projects  
+- 🏁 Join hackathons for rapid prototyping and real-world problem solving  
+- 🌐 Build personal brand and developer portfolio  
 
 ---
 
-## 🌍 Let’s Connect
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/Eternal-star8"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -107,8 +107,10 @@ Public testable API project with docs
 
 ---
 
-## 💬 Final Words
+## 📌 Final Note
 
-Thanks for stopping by! I’m not just learning to code — I’m here to **solve problems, build value, and grow with others in tech**.  
-Let’s connect, collaborate, and keep leveling up! 🚀
+Thank you for visiting my profile. I'm passionate about building, learning, and collaborating with like-minded individuals in tech. If you’re working on a project, opportunity, or idea that aligns — feel free to connect!
+
+---
+
 
